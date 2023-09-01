@@ -8,9 +8,6 @@ import { Footer } from "@/components/Footer";
 import { GoogleOAuthProvider } from "@react-oauth/google";
 import { UserProvider } from "@/components/context/UserContext";
 
-export const metadata = {
-  title: "INFINIT",
-};
 
 const clientId =
   "394954289615-hgk85f9ul09op4flt4evf7ngpdaomb8a.apps.googleusercontent.com";
